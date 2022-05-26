@@ -1,3 +1,2 @@
-Sistema 1.0
+Tela de login com animação.
 
-alteração para ver o que mudou
